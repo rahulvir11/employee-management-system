@@ -36,5 +36,5 @@ Before you begin, ensure you have the following installed:
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone git https://github.com/rahulvir11/employee-management-system.git
    cd employee-management-system
